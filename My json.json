@@ -1,0 +1,59 @@
+{
+  "ADS_STATION": [
+    {
+      "face_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_banner2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_banner3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_banner4": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_banner5": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_interstital": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_interstital2": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_interstital3": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_interstital4": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_interstital5": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "face_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeads": "ca-app-pub-3940256099942544/2247696110",
+      "startapp": "205163403",
+      "interclick": 5,
+      "showbanner": false,
+      "newpackage": "com.facebook",
+      "showupgrade": false,
+      "showmoreapp": false,
+      "setadnetwork": "startapp"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "name": "app name 1",
+      "img": "https://play-lh.googleusercontent.com/J63nWk6C9t02aMTRzuErCITkqFCKeFfmNzxmt2yFo4Ezk0K3ehwISeUG3ZJ7gEBK8A=s360",
+      "url_play": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi"
+    },
+    {
+      "id": 2,
+      "name": "games babybus",
+      "img": "https://play-lh.googleusercontent.com/c-M4x1TDSUX-PZFgY7n8zKdqum2VXrp9-D_21aBjM5vP2vWsrCYuY3oVCWxoNRFdW9Y=s360",
+      "url_play": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi"
+    },
+    {
+      "id": 3,
+      "name": "the safity first",
+      "img": "https://play-lh.googleusercontent.com/c-M4x1TDSUX-PZFgY7n8zKdqum2VXrp9-D_21aBjM5vP2vWsrCYuY3oVCWxoNRFdW9Y=s360",
+      "url_play": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi"
+    },
+    {
+      "id": 4,
+      "name": "hmmmmmmmmm",
+      "img": "https://play-lh.googleusercontent.com/9alDjEPPUU0wjuVriPUlyosJzcdHtHrNpCpYJjUYe-ydgp5rqJ4YvqsIUywHgfGif1E=s360",
+      "url_play": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi"
+    },
+    {
+      "id": 5,
+      "name": "babybus game here",
+      "img": "https://play-lh.googleusercontent.com/T-DkeuhSsRtFZdSril2v0BIXBVuIGfwL2KpjJokZCtLFfX47c4ipEmeeoSR1y6qyhDI=s360",
+      "url_play": "https://play.google.com/store/apps/details?id=com.sinyee.babybus.taxi"
+    }
+  ]
+}
