@@ -17,10 +17,10 @@
       "admob_nativeads": "ca-app-pub-3940256099942544/2247696110",
       "startapp": "205163403",
       "interclick": 5,
-      "showbanner": false,
+      "showbanner": true,
       "newpackage": "com.facebook",
-      "showupgrade": false,
-      "showmoreapp": true,
+      "showupgrade": true,
+      "showmoreapp": false,
       "setadnetwork": "admob"
     }
   ],
