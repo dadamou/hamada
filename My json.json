@@ -20,8 +20,8 @@
       "showbanner": false,
       "newpackage": "com.facebook",
       "showupgrade": false,
-      "showmoreapp": false,
-      "setadnetwork": "startapp"
+      "showmoreapp": true,
+      "setadnetwork": "admob"
     }
   ],
   "list": [
